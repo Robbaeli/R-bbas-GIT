@@ -1,3 +1,16 @@
-test
-det var en gång en fågel
+"<!Doctype html>
+<html>
 
+<head>
+    <title>Start</title>
+</head>
+
+<body>
+
+    <h1>Welcome to the start page!</h1>
+    <p>Here's a paragraf</p>
+    <li>lista</li>
+<li>lista 2</li>
+</body>
+
+</html>"
